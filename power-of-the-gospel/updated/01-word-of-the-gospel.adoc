@@ -38,14 +38,14 @@ In his first letter to the church, Peter makes the following statement:
 [.embedded-content-document.letter]
 --
 
-Since you have purified your souls in obeying the truth
+_Since you have purified your souls in obeying the truth
 through the Spirit in sincere love of the brethren,
 love one another fervently with a pure heart, having been born again,
 not of corruptible seed but incorruptible,
 through the word of God which lives and abides forever, because "`All flesh is grass,
 and all the glory of man as the flower of the grass.
 The grass withers, and its flower falls away, but the Word of the Lord endures forever.`"
-[.underline]#Now this is the Word which, by the gospel, was preached to you.#^
+Now [.underline]#this is the Word which, by the gospel, was preached to you#_.^
 footnote:[1 Peter 1:22-25]
 
 --
@@ -53,12 +53,17 @@ footnote:[1 Peter 1:22-25]
 There is much here worth noting,
 but I will highlight a few important things by way of introducing this subject.
 
+[.numbered-group]
+====
+
+[.numbered]
 _First,_ we read that those who had "`been born again,
 not of corruptible seed but incorruptible,
 through the word of God which lives and abides forever,`"
 had accordingly purified their souls by obeying the truth,
 and were thus enabled to love one another fervently with a pure heart.
 
+[.numbered]
 _Second:_ We see that that which has caused this birth in them,
 and this purification of them, and which has allowed heavenly love to flow unrestricted,
 is an incorruptible _Seed_ or _Word._
@@ -66,6 +71,7 @@ It is an imperishable thing, a living Word,
 which is not like the grass or the flowers of the field that fade away,
 but is rather an immortal power that endures forever.
 
+[.numbered]
 _Third:_ We then read in very plain and direct words,
 that the preaching of the gospel was meant to bring
 about an encounter with this living Word:
@@ -74,6 +80,8 @@ That is to say, it was through the preaching of words,
 that an eternal Word of life and power--of which man must be born,
 and through which he must be purified unto unfeigned
 love--was announced or declared to men.
+
+====
 
 It is evident from this Scripture (as from many others as well),
 that it would be quite possible to hear an announcement of gospel words,

@@ -146,25 +146,31 @@ and this is something that the Scriptures bear witness to
 in the clearest and strongest terms that language can convey.
 The following are just a few examples:
 
-[.embedded-content-document.letter]
---
+[.numbered-group]
+====
 
+[.numbered]
 _Genesis 6:5 -- "`Then the LORD saw that the wickedness of man was great in the earth,
 and that every intent of the thoughts of his heart was only evil continually.`"_
 
+[.numbered]
 _Genesis 8:21 -- "`The imagination of man`'s heart is evil from his youth.`"_
 
+[.numbered]
 _Jeremiah 17:9 -- "`The heart is more deceitful than all else, and is desperately sick;
 who can understand it?`"_
 
+[.numbered]
 _John 8:44 -- "`You are of your father the devil,
 and the desires of your father you want to do.`"_
 
+[.numbered]
 _Romans 3:10 -- "`As it is written: '`There is none righteous, no, not one;
 there is none who understands; there is none who seeks after God.
 They have all turned aside; they have together become unprofitable;
 there is none who does good, no, not one.`'`"_
 
+[.numbered]
 _Ephesians 2:1-3 -- "`And you He made alive, who were dead in trespasses and sins,
 in which you once walked according to the course of this world,
 according to the prince of the power of the air,
@@ -173,7 +179,7 @@ among whom also we all once conducted ourselves in the lusts of our flesh,
 fulfilling the desires of the flesh and of the mind,
 and were by nature children of wrath, just as the others.`"_
 
---
+====
 
 Will anyone say that these verses describe the image and likeness of God?
 These, and multitudes of similar verses,
@@ -220,29 +226,33 @@ footnote:[NASB]
 [.offset]
 Consider also these verses from Jeremiah:
 
-[.embedded-content-document.letter]
---
+[.numbered-group]
+====
 
+[.numbered]
 _11:7-8 -- "`For I earnestly exhorted your fathers
 in the day I brought them up out of the land of Egypt,
 until this day, rising early and exhorting, saying,
 '`Obey My voice.`' Yet they did not obey or incline their ear,
 but everyone followed the dictates of his evil heart.`"_
 
+[.numbered]
 _18:11-12 -- "`Return now every one from his evil way,
 and make your ways and your doings good.`"
 And they said, "`That is hopeless!
 So we will walk according to our own plans,
 and we will every one obey the dictates of his evil heart.`"_
 
+[.numbered]
 _3:17 -- "`At that time Jerusalem shall be called the Throne of the LORD,
 and all the nations shall be gathered to it, to the name of the LORD, to Jerusalem.
 No more shall they follow the dictates of their evil hearts.`"_
 
+[.numbered]
 _6:19 -- "`Hear, O earth!
 Behold, I will certainly bring calamity on this people--the fruit of their thoughts.`"_
 
---
+====
 
 Following his own thoughts makes man increasingly evil.
 What does this tell us about ourselves?

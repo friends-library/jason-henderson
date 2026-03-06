@@ -103,8 +103,8 @@ Speaking of his countrymen according to the flesh, Paul says:
 
 _For I bear them witness that they have a zeal for God, but not according to knowledge.
 For they being ignorant of God`'s righteousness,
-and seeking to establish their own righteousness,
-have not submitted to the righteousness of God_.^
+and seeking to establish their own righteousness, [.underline]#have not submitted
+to the righteousness of God#_.^
 footnote:[Romans 10:2-3]
 
 --
