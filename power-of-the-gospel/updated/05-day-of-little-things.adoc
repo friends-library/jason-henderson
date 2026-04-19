@@ -237,7 +237,7 @@ the operations of man`'s "`natural conscience.`"
 But Paul tells us plainly, "`All things that are reproved are made manifest by the light;
 for whatsoever makes manifest is light.`"^
 // lint-disable invalid-characters "ἐλέγχω"
-footnote:[Ephesians 5:13 The word ἐλέγχω in his verse means to rebuke, reprove,
+footnote:[Ephesians 5:13 The word ἐλέγχω in this verse means to rebuke, reprove,
 or convict, as it is translated in the KJV.
 Other translations use the word expose, which seems to soften the intended meaning.]
 Christ says, "`This is the condemnation, that the light has come into the world,
