@@ -1,17 +1,22 @@
 == The Sufficiency of Grace
 
-And He said to me, "`My grace is sufficient for you,
+[.embedded-content-document]
+--
+
+__And He said to me, "`My grace is sufficient for you,
 for My strength is made perfect in weakness.`"
 Most gladly, therefore, I will rather boast about my weaknesses,
 so that the power of Christ may dwell in me.
 Therefore I am well content with weaknesses, with insults, with distresses,
 with persecutions, with difficulties, for Christ`'s sake; for when I am weak,
-then I am strong.
+then I am strong.__
 
-Aside from the work that Jesus Christ has done for us in His incarnation, life, death,
+--
+
+Aside from the work that Jesus Christ has done _for_ us in His incarnation, life, death,
 burial, and resurrection,
 there is nothing in Christianity that is of greater importance
-than the genuine experience of what Christ seeks to do within us.
+than the genuine experience of what Christ seeks to do _within_ us.
 In fact, this inward work is how we reap the benefit of all that He did outwardly.
 The experience of His "`effective working`"^
 footnote:[Ephesians 3:4,7:16]
@@ -71,8 +76,8 @@ footnote:[John 6:63]
 And what does each of these births bring forth in man?
 A life, of course.
 Each one has its own life and nature, its own light, food, growth, and fruit.
-And Christianity--at least in one way of speaking--is meant to be a discernible
-experience of the second birth rising into dominion in the soul.
+And Christianity--at least in one way of speaking--is meant to be _a discernible
+experience of the second birth rising into dominion in the soul._
 As we daily deny and surrender the flesh, the incorruptible seed grows in strength,
 overcomes sin, and supplants the first birth.
 
@@ -134,7 +139,7 @@ or misunderstood because of it.
 We love the wisdom and beauty of these sayings,
 and we love the _idea_ of resting in the sufficiency of grace.
 But when it comes to the hundreds of little decisions that make up our daily lives,
-we fight to remain strong and safe where grace would leave us weak.
+we fight to remain strong and safe where grace would make us weak.
 
 There is a birth in us that has grown strong over time,
 and in it we have sought to feel secure, confident, and in control at all times.
@@ -299,7 +304,10 @@ they have all been taught to abide low and to live under grace.
 I leave you with a few lines from Isaac Penington, one of these worthies who,
 "`being dead, still speaks,`" and who paid a great price for the weight of his words.
 
-"`When I was turned to His truth in the inward parts,
+[.embedded-content-document]
+--
+
+_"`When I was turned to His truth in the inward parts,
 I found it was God`'s grace and tender love both to turn me and to keep me turned,
 causing truth to spring in me day by day, and give me ability through it.
 But oh,
@@ -307,24 +315,33 @@ none knows (besides those who have had experience)
 how we have been weakened in the natural part,
 how poor we have been made, that we might receive the gospel.
 Oh how poor in ourselves we are kept that we might
-enjoy the riches and inheritance of the kingdom.`"
+enjoy the riches and inheritance of the kingdom.`"_
 
-"`You must be very low, weak, and foolish, that the seed may arise in you to exalt you,
+[.asterism]
+'''
+
+_"`You must be very low, weak, and foolish, that the seed may arise in you to exalt you,
 and become your strength and wisdom.
 You must die exceedingly, again and again, more and more, inwardly and deeply,
 that your life may spring up from the holy root,
 and you may be more and more gathered into it, spring up into it, and live in the life,
 virtue, and power of it.
 The travel is long, the exercises many, the snares, temptations, and dangers are many,
-and yet the mercy, relief, and help is great also.`"
+and yet the mercy, relief, and help is great also.`"_
 
-"`Oh blessed be the Lord, I feel Him near, His Spirit near, His life near,
+[.asterism]
+'''
+
+_"`Oh blessed be the Lord, I feel Him near, His Spirit near, His life near,
 His power near, His pure virtue near, His holy wisdom near, His righteousness near,
 His redemption near; for He is my rock, and my strength, and my salvation, day by day.
 And I have no confidence in the flesh, in what I am, in what I can do after the flesh;
 but my confidence is in Him who has weakened me, who has stripped me,
 who has impoverished me, who has brought me to nothing in myself,
-that I might be all in Him, and that I might find Him made all unto me.`"
+that I might be all in Him, and that I might find Him made all unto me.`"_
+
+[.asterism]
+'''
 
 _"`Now the Lord knows, these things I do not utter in a boasting way,
 but would rather be speaking of my nothingness, my emptiness, my weakness,
@@ -342,7 +359,12 @@ I am weaker than I can express, or than you can imagine.
 Yet, in the midst of all this, the life, power, righteousness,
 and presence of Christ is my refreshment, peace, joy and crown.`"_
 
-"`Oh here the true poverty of spirit is witnessed.
+[.asterism]
+'''
+
+_"`Oh here the true poverty of spirit is witnessed.
 He is poor indeed who has sold all, and has nothing left him except this seed,
 and the appearance and help of God in this seed; which also is not in his own hands,
-but in the will and disposal of God.`"
+but in the will and disposal of God.`"_
+
+--
