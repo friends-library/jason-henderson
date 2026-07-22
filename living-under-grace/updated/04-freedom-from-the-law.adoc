@@ -319,7 +319,7 @@ where He says:
 [.embedded-content-document]
 --
 
-"`Do not think that I came to destroy the Law or the Prophets.
+__Do not think that I came to destroy the Law or the Prophets.
 I did not come to destroy but to fulfill.
 For assuredly, I say to you, till heaven and earth pass away,
 one jot or one tittle will by no means pass from the law till all is fulfilled.
@@ -328,7 +328,7 @@ shall be called least in the kingdom of heaven; but whoever does and teaches the
 he shall be called great in the kingdom of heaven.
 For I say to you,
 that unless your righteousness exceeds the righteousness of the scribes and Pharisees,
-you will by no means enter the kingdom of heaven.`"^
+you will by no means enter the kingdom of heaven.__^
 footnote:[Matthew 5:17-20]
 
 --
