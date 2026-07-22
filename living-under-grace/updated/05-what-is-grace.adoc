@@ -163,12 +163,14 @@ Consider the following Scripture:
 [.embedded-content-document]
 --
 
-And the Word became flesh and dwelt among us, and we beheld His glory,
-the glory as of the only begotten of the Father, __full of grace and truth.__
+__And the Word became flesh and dwelt among us, and we beheld His glory,
+the glory as of the only begotten of the Father, [.underline]#full of grace and truth.#
 John bore witness of Him and cried out, saying, "`This was He of whom I said,
 '`He who comes after me is preferred before me,
-for He was before me.`'`" __And of His fullness we have all received, and grace for grace.
-For the law was given through Moses, but grace and truth came through Jesus Christ.__^
+for He was before me.`'`" [.underline]#And of His fullness we have all received,
+and grace for grace.
+For the law was given through Moses,
+but grace and truth came through Jesus Christ.#__^
 footnote:[John 1:14-17]
 
 --
